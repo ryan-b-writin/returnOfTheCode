@@ -1,0 +1,21 @@
+/*nav bar shit***********************************************************/
+
+nav {
+  background-color: black;
+  padding: 1%;
+  text-align: center;
+}
+
+nav ul li a {
+  color: lightgreen;
+  padding: 25%;
+  font-family: 'Inconsolata', sans-serif ;
+  text-decoration:none;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+/****************************************************************************/
