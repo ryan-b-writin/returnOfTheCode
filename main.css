@@ -12,7 +12,8 @@ nav {
 
 nav ul li a {
   color: lightgreen;
-  padding: 25%;
+  /*padding:;*/
+  margin: 15%;
   font-family: 'Inconsolata', sans-serif ;
   text-decoration:none;
 }
@@ -20,6 +21,11 @@ nav ul li a {
 nav ul li {
   display: inline-block;
   list-style: none;
+}
+
+.selected {
+  background-color: lightgreen;
+  color: black;
 }
 
 /****************************************************************************/
