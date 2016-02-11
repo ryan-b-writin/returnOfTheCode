@@ -1,3 +1,6 @@
+body {
+  background-color:black;
+}
 /*nav bar shit***********************************************************/
 
 nav {
@@ -21,6 +24,18 @@ nav ul li {
 
 /****************************************************************************/
 
+/*main page *********************************************************************/
+
+.about img {
+  margin: 1% 25%;
+  max-width: 50%;
+}
+
+
+
+
+
+
 /*about page ************************************************************************/
 
 .about {
@@ -28,7 +43,7 @@ nav ul li {
   text-align: center;
   border: solid lightgreen 6px;
   margin: 2% 15%;
-  padding: 10%;
+  padding: 2% 10%;
   background-color: black;
   color: lightgreen;
   font-family: 'Inconsolata', sans-serif ;
