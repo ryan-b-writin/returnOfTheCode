@@ -1,3 +1,6 @@
+body {
+  background-color:black;
+}
 /*nav bar shit***********************************************************/
 
 nav {
@@ -9,7 +12,8 @@ nav {
 
 nav ul li a {
   color: lightgreen;
-  padding: 25%;
+  /*padding:;*/
+  margin: 15%;
   font-family: 'Inconsolata', sans-serif ;
   text-decoration:none;
 }
@@ -19,7 +23,24 @@ nav ul li {
   list-style: none;
 }
 
+.selected {
+  background-color: lightgreen;
+  color: black;
+}
+
 /****************************************************************************/
+
+/*main page *********************************************************************/
+
+.about img {
+  margin: 1% 25%;
+  max-width: 50%;
+}
+
+
+
+
+
 
 /*about page ************************************************************************/
 
@@ -28,7 +49,7 @@ nav ul li {
   text-align: center;
   border: solid lightgreen 6px;
   margin: 2% 15%;
-  padding: 10%;
+  padding: 2% 10%;
   background-color: black;
   color: lightgreen;
   font-family: 'Inconsolata', sans-serif ;
