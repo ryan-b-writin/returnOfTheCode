@@ -1,9 +1,18 @@
 body {
   background-color:black;
 }
+
+/*social media header ***********************************************/
+
+.socialMedia {
+  margin: 0 0 10px 6px;
+  float: right;
+}
+
 /*nav bar shit***********************************************************/
 
 nav {
+  clear: both;
   background-color: black;
   padding: 1%;
   text-align: center;
