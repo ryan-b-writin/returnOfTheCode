@@ -78,7 +78,9 @@ for (var i = 0; i < productArray.length; i++) {
     + '<img src="' + productArray[i].imageURL + '">' 
     + stock 
     + '<p class="description">' + productArray[i].description  + '</p>' 
-    + '<p class="price">Price: ' + productArray[i].price + '</p>'  + '</article>';
+    + '<p class="price">Price: ' + productArray[i].price + '</p>'
+    + '<button>Check out!</button>'
+    + '</article>';
 };
 
 // original for loop
