@@ -40,9 +40,8 @@ nav ul li {
 /*products page*************************************************************************/
 article.cards {
   border: 10px dotted lightgreen;
-  float: left;
   text-align: center;
-  margin: 5%;
+  float: left;
   max-width: 35%; 
 }
 
