@@ -69,16 +69,16 @@ var products = document.getElementById("videos");
 
 for (var i = 0; i < productArray.length; i++) {
     if (productArray[i].inStock){
-        stock = "<p class='inStock'>Available for checkout!</p>"
+        stock = "<p class='inStock'>Availability: Available for checkout!</p>"
     } else {
-        stock = "<p class='inStock'>Please wait 6-8wks.</p>"
+        stock = "<p class='inStock'>Availability: Please wait 6-8wks.</p>"
     };
     products.innerHTML += '<article class="cards">' 
     + '<p class="filmName">' + productArray[i].title + '</p>' 
     + '<img src="' + productArray[i].imageURL + '">' 
     + stock 
     + '<p class="description">' + productArray[i].description  + '</p>' 
-    + '<p class="price">' + productArray[i].price + '</p>'  + '</article>';
+    + '<p class="price">Price: ' + productArray[i].price + '</p>'  + '</article>';
 };
 
 // original for loop
