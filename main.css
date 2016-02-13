@@ -4,9 +4,9 @@ body {
 
 /*social media header ***********************************************/
 
-.socialMedia {
-  margin: 0 0 10px 6px;
-  float: right;
+.links {
+  width: 100%;
+  text-align: center;
 }
 
 /*nav bar shit***********************************************************/
@@ -96,8 +96,6 @@ p.price {
   font-family: 'Inconsolata', sans-serif ;
   min-height: 40%;
 }
-
-
 
  /*employee page*/
 
