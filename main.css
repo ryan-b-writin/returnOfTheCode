@@ -22,7 +22,7 @@ nav {
 
 nav ul li a {
   color: lightgreen;
-  font-family: 'Inconsolata', sans-serif ;
+  font-family: 'Inconsolata', sans-serif;
   text-decoration:none;
 }
 
@@ -72,17 +72,16 @@ p.price {
   text-align: center;
 }
 
+.cards {
+  font-family: 'Inconsolata', sans-serif;
+}
+
 /*main page *********************************************************************/
 
 .about img {
   margin: 1% 25%;
   max-width: 50%;
 }
-
-
-
-
-
 
 /*about page ************************************************************************/
 
@@ -98,11 +97,6 @@ p.price {
   min-height: 40%;
 }
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> master
  /*employee page*/
 
  .right, .left {
