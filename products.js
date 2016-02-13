@@ -76,8 +76,8 @@ for (var i = 0; i < productArray.length; i++) {
     products.innerHTML += '<article class="cards">' 
     + '<p class="filmName">' + productArray[i].title + '</p>' 
     + '<img src="' + productArray[i].imageURL + '">' 
-    + stock 
     + '<p class="description">' + productArray[i].description  + '</p>' 
+    + stock 
     + '<p class="price">Price: ' + productArray[i].price + '</p>'
     + '<button>Check out!</button>'
     + '</article>';
