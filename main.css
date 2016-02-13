@@ -96,3 +96,16 @@ p.price {
   font-family: 'Inconsolata', sans-serif ;
   min-height: 40%;
 }
+
+/*footer *******************************************************************************/
+
+footer {
+  font-family: 'Inconsolata', sans-serif ;
+  font-size: 25px;
+  color: green;
+  text-align: center;
+  clear: both;
+}
+
+
+
