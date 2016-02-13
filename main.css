@@ -95,3 +95,56 @@ p.price {
   font-family: 'Inconsolata', sans-serif ;
   min-height: 40%;
 }
+
+
+
+ /*employee page*/
+
+ .right, .left {
+  color: lightgreen;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  font-family: Consolas, monaco, monospace;
+  padding: 2px;
+  margin: 10px 0 5px 0;
+  border: 1px solid lightgreen;
+
+}
+
+  div.right {
+    flex-direction: row-reverse;
+  }
+
+  div.right > img {
+    max-height: 175px;
+    max-width: 175px;
+    padding: 2px;
+  }
+
+  div.left > img {
+    max-height: 175px;
+    max-width: 175px;
+    padding: 2px;
+    float: left;
+  }
+
+  div.right > p {
+    margin-right: 2px;
+  }
+
+  div.left > p {
+    margin-left: 2px;
+  }
+
+/*footer *******************************************************************************/
+
+footer {
+  font-family: 'Inconsolata', sans-serif ;
+  font-size: 25px;
+  color: green;
+  text-align: center;
+  clear: both;
+}
+
+
