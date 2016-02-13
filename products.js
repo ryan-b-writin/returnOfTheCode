@@ -24,7 +24,7 @@ var productArray = [
     },
     	
     {  	title: "Troll 2",
-    	imageURL: "img/troll.jpg",
+    	imageURL: "img/troll2.jpg",
         inStock: false,
         description: "Brooklyn health goth portland 8-bit chambray.",
         price: "$5 + shipping*"
@@ -68,7 +68,19 @@ var productArray = [
 var products = document.getElementById("videos");
 
 for (var i = 0; i < productArray.length; i++) {
-    products.innerHTML += '<article>' + productArray[i].title +
-    "<img src='"+ productArray[i].imageURL +"'>" + '</article>';
-
+    products.innerHTML += '<article class="cards">' 
+    + '<p class="filmName">' + productArray[i].title + '</p>' 
+    + '<img src="' + productArray[i].imageURL + '">' 
+    + '<p class="inStock">' + productArray[i].inStock + '</p>' 
+    + '<p class="description">' + productArray[i].description  + '</p>' 
+    + '<p class="price">' + productArray[i].price + '</p>'  + '</article>';
 };
+
+// original for loop
+// for (var i = 0; i < productArray.length; i++) {
+//     products.innerHTML += '<article>' + productArray[i].title +
+//     "<img src='"+ productArray[i].imageURL +"'>" + '</article>';
+
+
+
+

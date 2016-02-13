@@ -1,9 +1,18 @@
 body {
   background-color:black;
 }
+
+/*social media header ***********************************************/
+
+.socialMedia {
+  margin: 0 0 10px 6px;
+  float: right;
+}
+
 /*nav bar shit***********************************************************/
 
 nav {
+  clear: both;
   background-color: black;
   padding: 1%;
   text-align: center;
@@ -28,7 +37,39 @@ nav ul li {
   color: black;
 }
 
-/****************************************************************************/
+/*products page*************************************************************************/
+article.cards {
+  border: 10px dotted lightgreen;
+  float: left;
+  text-align: center;
+  margin: 5%;
+  max-width: 35%; 
+}
+
+article.cards img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+p.filmName {
+  color: white;
+  text-align: center;
+}
+
+p.inStock {
+  color: white;
+  text-align: center;
+}
+
+p.description {
+  color: white;
+  text-align: center;
+}
+
+p.price {
+  color: white;
+  text-align: center;
+}
 
 /*main page *********************************************************************/
 
