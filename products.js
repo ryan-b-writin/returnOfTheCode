@@ -2,7 +2,7 @@ var productArray = [
     {  	title: "Gymkata",
     	imageURL: "img/gymkata.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "Gymnastics skills & karate kills.",
         price: "$5 + shipping*"
 
     },
@@ -10,7 +10,7 @@ var productArray = [
     {  	title: "Lethal Weapon 2",
     	imageURL: "img/lethalweapon.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "Featuring two lethal weapons.",
         price: "$5 + shipping*"
 
     },
@@ -18,7 +18,7 @@ var productArray = [
     {  	title: "Manos: Hands of Fate",
     	imageURL: "img/manos.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "When fate gets all grabby.",
         price: "$5 + shipping*"
 
     },
@@ -26,7 +26,7 @@ var productArray = [
     {  	title: "Troll 2",
     	imageURL: "img/troll2.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "Are you a troll, too?",
         price: "$5 + shipping*"
 
     },
@@ -34,7 +34,7 @@ var productArray = [
     {  	title: "Howard the Duck",
     	imageURL: "img/howard.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "wait how does he have a cigar in the egg",
         price: "$5 + shipping*"
 
     },
@@ -42,7 +42,7 @@ var productArray = [
     { 	title: "Garbage Pail Kids",
     	imageURL: "img/garbage.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "Better call child services.",
         price: "$5 + shipping*"
 
     },
@@ -50,7 +50,7 @@ var productArray = [
     { 	title: "Touch of Satan",
     	imageURL: "img/satan.jpg",
         inStock: false,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "No touching!",
         price: "$5 + shipping*"
 
     },
@@ -58,7 +58,7 @@ var productArray = [
     { 	title: "Glitter",    
     	imageURL: "img/glitter.png",
         inStock: true,
-        description: "Brooklyn health goth portland 8-bit chambray.",
+        description: "It gets everywhere and never comes off.",
         price: "$5 + shipping*"
 
     },
