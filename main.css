@@ -137,3 +137,15 @@ p.price {
   div.left > p {
     margin-left: 2px;
   }
+
+/*footer *******************************************************************************/
+
+footer {
+  font-family: 'Inconsolata', sans-serif ;
+  font-size: 25px;
+  color: green;
+  text-align: center;
+  clear: both;
+}
+
+
