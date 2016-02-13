@@ -15,14 +15,14 @@ nav {
   clear: both;
   background-color: black;
   padding: 1%;
+  margin: 2% 15%;
   text-align: center;
   border: solid lightgreen 6px;
 }
 
 nav ul li a {
   color: lightgreen;
-  /*padding:;*/
-  margin: 15%;
+  margin: 10%;
   font-family: 'Inconsolata', sans-serif ;
   text-decoration:none;
 }
