@@ -101,7 +101,7 @@ p.price {
 
  /*employee page*/
 
- div {
+ .right, .left {
   color: lightgreen;
   display: flex;
   flex-direction: row;
