@@ -2,6 +2,12 @@
 
 As a team, build the web site for a fictitious product company. The team gets to decide what the name of the company is, and what types of products it manufactures. Be creative and have fun.
 
+## Contributors
+
+[Tim Maddux](https://github.com/madduxTim) 
+[Andi DeVois](https://github.com/devoisaurus) 
+[Ryan Bliton](https://github.com/ryan-b-writin) 
+
 ## Requirements
 
 ### Theme
