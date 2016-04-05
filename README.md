@@ -4,9 +4,9 @@ As a team, build the web site for a fictitious product company. The team gets to
 
 ## Contributors
 
-[Tim Maddux](https://github.com/madduxTim) 
-[Andi DeVois](https://github.com/devoisaurus) 
-[Ryan Bliton](https://github.com/ryan-b-writin) 
+[Tim Maddux](https://github.com/madduxTim)  
+[Andi DeVois](https://github.com/devoisaurus)  
+[Ryan Bliton](https://github.com/ryan-b-writin)  
 
 ## Requirements
 
